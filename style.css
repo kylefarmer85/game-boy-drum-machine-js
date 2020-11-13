@@ -1,0 +1,22 @@
+body {
+  margin-top: 10%;
+  padding: 10px;
+}
+
+.instrument {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly
+}
+
+.sound {
+  height: 75px;
+  width: 75px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
